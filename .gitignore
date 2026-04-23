@@ -1,6 +1,9 @@
 # Python environment
 net
 
+# Facebook100 dataset
+data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
