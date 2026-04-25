@@ -21,3 +21,4 @@ ogb
 ninja 
 wheel
 torch_geometric
+progressbar
